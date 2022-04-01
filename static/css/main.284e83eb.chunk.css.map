@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,eACF","file":"main.284e83eb.chunk.css","sourcesContent":[".app {\n  text-align: center;\n}\n\n.list {\n  list-style: none;\n}\n"]}
